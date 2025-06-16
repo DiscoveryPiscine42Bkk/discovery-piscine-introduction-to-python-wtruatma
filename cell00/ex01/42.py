@@ -1,1 +1,1 @@
-testing
+print("42")
